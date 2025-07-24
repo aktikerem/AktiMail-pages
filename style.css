@@ -123,6 +123,11 @@ p {
   text-decoration: underline;
 }
 
+.fix a {
+  text-decoration: none;
+  
+}
+
 @media (max-width: 600px) {
   /* Your mobile-specific styles go here */
  .logo{
