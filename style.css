@@ -122,3 +122,13 @@ p {
   color: #fff;
   text-decoration: underline;
 }
+
+@media (max-width: 600px) {
+  /* Your mobile-specific styles go here */
+ .logo{
+  font-size: 1.4rem;
+ }
+ .nav-links a{
+  font-size: 1.2rem;
+ }
+}
