@@ -132,3 +132,11 @@ p {
   font-size: 1.2rem;
  }
 }
+
+@media (max-width: 432px) {
+  /* Your mobile-specific styles go here */
+ #logo-text{
+  display: none;
+ }
+
+}
